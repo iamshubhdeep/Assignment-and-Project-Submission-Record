@@ -1,4 +1,4 @@
-# ML / AI / RL Project Portfolio
+# Projects Portfolio
 
 A consolidated collection of machine learning, deep learning, and reinforcement learning projects — classic ML classifiers, computer vision, NLP/RAG, and RL agents.
 
