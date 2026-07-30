@@ -2,6 +2,15 @@
 
 A consolidated collection of machine learning, deep learning, and reinforcement learning projects — classic ML classifiers, computer vision, NLP/RAG, and RL agents.
 
+## Details
+
+- Name : Shubhdeep Singh
+- Application No. : IN26011804
+- College Reg. No. : 23BCE11460
+- Batch No. : 1(A)
+- Email Id : shubhdeep.23bce11460@vitbhopal.ac.in
+
+
 ## Projects
 
 | # | Project | Type | Notes |
@@ -16,13 +25,4 @@ A consolidated collection of machine learning, deep learning, and reinforcement 
 | 08 | [Iris Flower Classifier (API + Web UI)](./08-iris-flower-classifier) | ML / Web App | [Live demo](https://iris-flower-classifier-api-web-ui.onrender.com) |
 | 09 | [Cart-Pole RL Trainer](./09-cartpole-rl-trainer) | Reinforcement Learning (Interactive) | Browser-based Q-learning visualizer — open the `.html` file directly |
 
-## Structure
 
-Each project lives in its own folder with its original code/notebooks intact. Projects 05–08 were pulled in from their own standalone repositories (see individual folder READMEs for their original setup/run instructions). Projects 01–04 and 09 are notebooks/scripts/artifacts added directly.
-
-## Running things
-
-- **Notebooks (01–03)**: open in Jupyter / Colab and run top to bottom.
-- **04-adult-census-ml**: `python adult_census_ml_assignment.py` (see `images/` for saved output plots/tables).
-- **05–08**: each has its own `requirements.txt` — `cd` into the folder, `pip install -r requirements.txt`, then follow that folder's README.
-- **09-cartpole-rl-trainer**: open `cartpole_rl_trainer.html` directly in a browser, no install needed.
