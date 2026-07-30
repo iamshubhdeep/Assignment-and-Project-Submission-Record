@@ -2,8 +2,8 @@
 
 A clean, production-grade Retrieval-Augmented Generation (RAG) chatbot designed to ingest, index, and query dense PDF documents natively. The system relies on LangChain for pipeline architecture, Google Gemini for semantic embeddings and text synthesis, and ChromaDB for local vector storage.
 
-**Author:** Akshat Garg  
-**Registration Number:** 23BCE10641  
+**Author:** Shubhdeep Singh 
+**Registration Number:** 23BCE11460
 
 ---
 
