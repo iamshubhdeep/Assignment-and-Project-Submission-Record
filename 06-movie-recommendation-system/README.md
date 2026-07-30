@@ -58,7 +58,7 @@ Movie-Recommendation-System/
 Clone the repository:
 
 ```bash
-git clone https://github.com/AkshatGarg2005/Movie-Recommendation-System
+git clone https://github.com/iamshubhdeep/Movie-Recommendation-System
 ```
 
 Navigate to the project folder:
